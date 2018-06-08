@@ -1,0 +1,19 @@
+.Clickable {
+    background-color: green;
+    border: none;
+    color: white;
+    outline: none;
+    cursor: pointer;
+    font: inherit;
+    padding: 10px;
+    margin: 10px auto;
+    font-weight: bold;
+    width: 30%;
+    text-align: center;
+    box-shadow: 0 2px 3px #ccc;
+}
+
+.Clickable:hover {
+    background-color: lightgreen;
+    color: black;
+}
